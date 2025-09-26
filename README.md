@@ -11,7 +11,7 @@
 ## 🛠 Skills  
 
 ### 🔹 **Linguagens & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ### 🔹 **Banco de Dados & Backend**  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
